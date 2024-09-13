@@ -1,0 +1,14 @@
+E:\GitHub\trello\bin\Debug\net8.0\trello.exe
+E:\GitHub\trello\bin\Debug\net8.0\trello.deps.json
+E:\GitHub\trello\bin\Debug\net8.0\trello.runtimeconfig.json
+E:\GitHub\trello\bin\Debug\net8.0\trello.dll
+E:\GitHub\trello\bin\Debug\net8.0\trello.pdb
+E:\GitHub\trello\obj\Debug\net8.0\trello.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\trello\obj\Debug\net8.0\trello.AssemblyInfoInputs.cache
+E:\GitHub\trello\obj\Debug\net8.0\trello.AssemblyInfo.cs
+E:\GitHub\trello\obj\Debug\net8.0\trello.csproj.CoreCompileInputs.cache
+E:\GitHub\trello\obj\Debug\net8.0\trello.dll
+E:\GitHub\trello\obj\Debug\net8.0\refint\trello.dll
+E:\GitHub\trello\obj\Debug\net8.0\trello.pdb
+E:\GitHub\trello\obj\Debug\net8.0\trello.genruntimeconfig.cache
+E:\GitHub\trello\obj\Debug\net8.0\ref\trello.dll
