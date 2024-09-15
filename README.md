@@ -1,4 +1,7 @@
-<h2>Trello Low Level Design</h2>
+<h1>Trello Low Level Design</h1>
+<h2>Problem Statement</h2>
+<a href="https://workat.tech/machine-coding/practice/trello-problem-t0nwwqt61buz">go to problem</a>
+<h2>Solution</h2>
 <b>Directory Structure</b>
 <pre>
   
@@ -29,5 +32,5 @@ C:.
 ¦       UserService.cs
 ¦       
 +---System
-        Trello.cs
+|      Trello.cs
 </pre>
