@@ -17,6 +17,9 @@ public class ListService : BaseService
             return null;
         }
     }
+    public BoardList? GetBoardList(string listId){
+        return _repo.Lists.Values.Where(list=>list.Id==listId).FirstOrDefault();
+    }
     public BoardList? RemoveList(BoardList list)
     {
         try
@@ -37,7 +40,7 @@ public class ListService : BaseService
         }
     }
 
-    public BoardList? UpdateBoard(BoardList list)
+    public BoardList? UpdateBoardList(BoardList list)
     {
         try
         {

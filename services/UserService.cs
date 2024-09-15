@@ -9,4 +9,8 @@ public class UserService : BaseService
         return user;
 
     }
+    public User? GetUser(string userId){
+        return _repo.Users.Values.Where(user=>user.Id == userId).FirstOrDefault();
+
+    }
 }

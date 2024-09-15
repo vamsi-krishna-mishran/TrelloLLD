@@ -9,9 +9,9 @@ class Program
 
         Board board = trello.CreateBoard("work@tech");
         User user = trello.AddUser("vamiskrishna", "vamis@gmail.com");
-        trello.AddPeople(board, user);
+        //trello.AddPeople(board, user);
 
-        BoardList list = trello.AddList("vamsi", "Mock interviews");
+        //BoardList list = trello.AddList("vamsi", "Mock interviews");
 
         Console.WriteLine(board);
 

@@ -32,6 +32,9 @@ public class CardService : BaseService
         }
     }
 
+    public Card? GetCard(string cardId){
+        return  _repo.Cards.Values.Where(card=>card.Id == cardId).FirstOrDefault();
+    }
     public Card? UpdateCard(Card Card)
     {
         try
